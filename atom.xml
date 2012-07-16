@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://github.com:isyiwang.github.com/atom.xml" rel="self"/>
-  <link href="http://github.com:isyiwang.github.com/"/>
-  <updated>2012-07-15T18:28:29-07:00</updated>
-  <id>http://github.com:isyiwang.github.com/</id>
+  <link href="http://isyiwang.github.com/atom.xml" rel="self"/>
+  <link href="http://isyiwang.github.com/"/>
+  <updated>2012-07-15T23:38:06-07:00</updated>
+  <id>http://isyiwang.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[New Post]]></title>
-    <link href="http://github.com:isyiwang.github.com/blog/2012/07/15/new-post/"/>
+    <link href="http://isyiwang.github.com/blog/2012/07/15/new-post/"/>
     <updated>2012-07-15T18:27:00-07:00</updated>
-    <id>http://github.com:isyiwang.github.com/blog/2012/07/15/new-post</id>
+    <id>http://isyiwang.github.com/blog/2012/07/15/new-post</id>
     <content type="html"><![CDATA[<p>This is a test post</p>
 ]]></content>
   </entry>
